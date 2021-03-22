@@ -4,4 +4,4 @@ Aplikace na tvorbu webových stránek.
 
 https://smartwebsitebuilder.vercel.app/
 
-David Pavluv
+David Pavluv, 4.E 
